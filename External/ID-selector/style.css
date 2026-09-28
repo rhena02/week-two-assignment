@@ -1,0 +1,395 @@
+        /*Index CSS */
+        #header {
+            background-color: #241b24;
+            color: white;
+            text-align: center;
+            padding: 30px 15px;
+        }
+
+        #nav{
+            text-align: center;
+            padding: 15px;
+        }
+
+        #nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        body{
+            background-color: lavenderblush;
+            font-family: Arial, Sans-serif;
+        }
+
+        #about-section{
+            padding: 30px; 
+            max-width: 900px; 
+            margin: auto;
+        }
+
+        #about-title{
+            color: #241b25; 
+            font-size: 28px;
+        }
+        #about-text{
+            color: #555; 
+            line-height: 1.7;
+        }
+
+        #learnmore{
+            color: #241b25; 
+            font-weight: bold; 
+            text-decoration: none;
+        }
+        
+        #skills-section{
+            padding: 30px; 
+            max-width: 900px; 
+            margin: auto;
+        }
+
+        #skills-title{
+          color: #241b25; 
+          font-size: 28px;  
+        }
+
+        #skills-list{
+            color: #241b25;
+            font-size: 20px;
+        }
+
+        #projects-section{
+            padding: 30px; 
+            max-width: 900px; 
+            margin: auto;
+        }
+
+        #project-title{
+            color: #241b25; 
+            font-size: 28px;
+        }
+
+        #project1-title{
+            color: #241b25; 
+            margin-top: 25px;
+        }
+
+        #project-image{
+            width: 300;
+            display: block; 
+            margin: 15px 0; 
+            border-radius: 8px;
+        }
+        #description1{
+            color: #555; 
+            line-height: 1.7;
+        }
+        #tools{
+            color: #555; 
+            line-height: 1.7;
+        }
+
+        #details{
+            color: #555; 
+            line-height: 1.7;
+        }
+        #project2-title{
+            color: #241b25; 
+            margin-top: 25px; 
+        }
+
+        #project2-image{
+            width: 300;
+            display: block; 
+            margin: 15px 0; 
+            border-radius: 8px;
+        }
+
+        #description{
+            color: #555; 
+            line-height: 1.7;
+        }
+
+        #tools2{
+            color: #555; 
+            line-height: 1.7;   
+        }
+        
+        #details2{
+            color: #555; 
+            line-height: 1.7;
+        }
+
+        #footer{
+            background-color: #241b25; 
+            color: white; 
+            text-align: center; 
+            padding: 15px; 
+            margin-top: 40px;
+        }
+        
+        /* About CSS */
+        #header {
+            background-color: #241b24;
+            color: white;
+            text-align: center;
+            padding: 30px 15px;
+        }
+
+        #nav{
+            text-align: center;
+            padding: 15px;
+        }
+
+        #nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        body{
+            background-color: lavenderblush;
+            font-family: Arial, Sans-serif;
+        }
+
+        #about{
+            font-size: 36px; 
+            margin-bottom: 10px;
+        }
+
+        #section-bio{
+            padding: 30px; 
+            max-width: 900px; 
+            margin: auto;
+        }
+
+        #Biography{
+            color: #241b25; 
+            font-size: 28px;
+        }
+
+        #bio-details{
+            font-size: 18px; 
+            line-height: 1.6; 
+            max-width: 700px;
+        }
+
+        #Hobbies{
+            font-size: 18px; 
+            line-height: 1.6; 
+            max-width: 700px;
+        }
+
+        #facts{
+             padding: 30px; 
+             max-width: 900px; 
+             margin: auto;
+        }
+
+        #factsheading{
+            color:  #241b25; 
+            font-size: 28px;
+        }
+
+        #list{
+            color: #555; 
+            line-height: 2;
+        }
+
+        #education{
+            padding: 30px; 
+            max-width: 900px; 
+            margin: auto;
+        }
+
+        #eheading{
+            color:  #241b25; 
+            font-size: 28px;   
+        }
+
+        #edetails{
+            font-size: 18px; 
+            line-height: 1.6; 
+            max-width: 700px;
+        }
+
+        #goal{
+            padding: 30px; 
+            max-width: 900px; 
+            margin: auto;
+        }
+
+        #gheading{
+            color: #241b25; 
+            font-size: 28px;
+        }
+
+        #gdetails{
+            font-size: 18px; 
+            line-height: 1.6; 
+            max-width: 700px;   
+        }
+
+        #footer{
+            background-color: #241b25; 
+            color: white; 
+            text-align: center; 
+            padding: 15px; 
+            margin-top: 40px;
+        }
+        
+        /*Skills CSS */
+        body{
+            background-color: lavenderblush; 
+            color: #333; 
+            font-family: arial, sans-serif;
+            margin: 0;
+        }
+
+        #header{
+            background-color: #241b25; 
+            color: white; 
+            text-align: center; 
+            padding: 30px 15px;
+        }
+
+        #nav a{
+            color: white; 
+            text-decoration: none; 
+            margin: 0 10px;
+        }
+        
+        #skills{
+            font-size: 36px; 
+            margin-bottom: 10px;
+        }
+
+        #tskills{
+            padding: 30px; 
+            max-width: 900px; 
+            margin: auto;
+        }
+
+        #theading{
+            color: #241b25; 
+            font-size: 28px;
+        }
+
+        #tlist{
+            color: #241b25; 
+            font-size: 20px;
+        }
+        
+        #pskills{
+            padding: 30px; 
+            max-width: 900px; 
+            margin: auto;
+        }
+
+        #pheading{
+            color: #241b25; 
+            font-size: 28px; 
+        }
+
+        #plist{
+            color: #241b25; 
+            font-size: 20px; 
+        }
+
+        #footer{
+            background-color: #241b25; 
+            color: white; 
+            text-align: center; 
+            padding: 15px; 
+            margin-top: 40px;
+        }
+        /* Contact CSS */
+        #header{
+            background: #241b25; 
+            color: white; 
+            text-align: center; 
+            padding: 30px 15px;
+        }
+
+        #nav{
+            padding: 15px;
+        }
+
+        #nav a{
+            color: white; 
+            text-decoration: none; 
+            margin: 0 10px;
+        }
+
+        body{
+            background-color: lavenderblush; 
+            color: #333; 
+            font-family: arial, sans-serif; 
+            margin: 0;
+        }
+
+        #head{
+            color: #555; 
+            line-height: 1.7; 
+            margin-left: 30px;
+        }
+
+        #Get{
+            color: #241b25; 
+            margin: 30px 0 15px;
+        }
+
+        #info{
+            color: #241b25; 
+            margin-top: 20px
+        }
+
+        #email{
+            color: #555; 
+            line-height: 1.6;
+        }
+
+        #telephone{
+            color: #555; 
+            line-height: 1.6;
+        }
+
+        #form{
+            margin: 30px; 
+            max-width: 600px;
+        }
+
+        #form label{
+           color:  #241b25; 
+           font-weight: bold;
+        }
+
+        #form input{
+            padding: 10px; 
+            margin: 8px 0 15px; 
+            width: 100%;
+        }
+
+        #form textarea{
+            padding: 10px; 
+            margin: 8px 0 15px; 
+            width: 100%;
+        }
+
+        #form button{
+            background: #241b25; 
+            color: white; 
+            border: none; 
+            padding: 12px 24px; 
+            border-radius: 5px; 
+            cursor: pointer;
+        }
+
+        #footer{
+            background-color: #241b25; 
+            color: white; 
+            text-align: center; 
+            padding: 15px; 
+            margin-top: 40px;
+        }
